@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 - 牛人，拼的是执行力和屏蔽力
 - 从“海绵式”思维转向“淘金式”思维
 - “关我屁事”，“关你屁事”
+- 重新寻找新路是痛苦的，但如果不这样做，你只是在变老
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xj75q)](https://github.com/xj75q/github-readme-stats)
