@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 重新寻找新路是痛苦的，但如果不这样做，你只是在变老
 
 
-#### [My Skill Set]
+#### 【My Skill Set】
 
 <table><tr><td valign="top" width="33%">
 
