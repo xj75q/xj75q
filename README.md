@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xj75q)](https://github.com/xj75q/github-readme-stats)
+
 -->
 
 #### 【个人简介】
@@ -38,4 +40,3 @@ Here are some ideas to get you started:
 - 重新寻找新路是痛苦的，但如果不这样做，你只是在变老
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xj75q)](https://github.com/xj75q/github-readme-stats)
